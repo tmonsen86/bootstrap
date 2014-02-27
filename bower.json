@@ -1,0 +1,6 @@
+{
+  "name": "angular-ui-bootstrap-tmonsen86",
+  "version": "0.10.1",
+  "homepage": "https://github.com/tmonsen86/bootstrap",
+  "main": "./ui-bootstrap-tpls.js"
+}
